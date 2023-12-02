@@ -1,7 +1,7 @@
 # Git_Basics
 Basic of Github
 <hr> <br>
-I am Learning the Basics of Git Hub here in this platform
+I am Learning the Basics of Git Hub 
 
 # Initialize a new Git repository
 git init
